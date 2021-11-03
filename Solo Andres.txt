@@ -1,1 +1,0 @@
-No está el archivo requeriments ni el Procfile
