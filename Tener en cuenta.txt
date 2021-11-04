@@ -1,0 +1,2 @@
+No están los archivos de despliegue, ni el entorno virtual.
+Se borraron datos de la conexión bd.
